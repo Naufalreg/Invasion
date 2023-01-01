@@ -7,7 +7,7 @@ This image below show which countries had commited 'invasion' from 1700 onwards.
 
 ![](/invasion.png)
 
-The data was scrapped from https://en.wikipedia.org/wiki/List_of_invasions using the google sheet, imported to MySQL to find some insight like the occurrences of invasions for each nation (don't really need to use SQL to do this task tbh).
+The data was scrapped from https://en.wikipedia.org/wiki/List_of_invasions using the google sheet, imported to MySQL to find some insights like the occurrences of invasions for each nation (don't really need to use SQL to do this task tbh).
 
 Usual suspects, UK/Great Britain/Britain/England appeared 45 times on list, followed by Russia/Soviet Union (37 times), United State (35 times) and France (34 times). Full visual shown below.
 
