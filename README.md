@@ -12,3 +12,5 @@ The data was scrapped from https://en.wikipedia.org/wiki/List_of_invasions using
 Usual suspects, UK/Great Britain/Britain/England appeared 45 times on list, followed by Russia/Soviet Union (37 times), United State (35 times) and France (34 times). Full visual shown below.
 
 ![](/occurrence.png)
+
+p.s I posted this into r/MapPorn but sadly didn't get through :)
